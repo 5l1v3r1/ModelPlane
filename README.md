@@ -1,2 +1,2 @@
-# ShyFox3D
+# ModelPlane
 3D modeling application
