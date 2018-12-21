@@ -16,7 +16,7 @@ class Shader:
 
         self.program = glCreateProgram()
 
-        if not self.program:
+        if self.program == 0:
             sys.exit('ERROR: Failed to create program')
 
         glAttachShader(self.program, vertex_shader)
