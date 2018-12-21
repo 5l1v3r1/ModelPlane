@@ -1,0 +1,8 @@
+pip
+PyOpenGL
+GLFW
+NumPy
+Pyrr
+Pillow
+PyAssimp
+Cython
